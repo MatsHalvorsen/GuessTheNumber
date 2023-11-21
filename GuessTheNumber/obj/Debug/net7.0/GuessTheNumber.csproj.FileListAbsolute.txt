@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/bin/Debug/net7.0/GuessTheNumber
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/bin/Debug/net7.0/GuessTheNumber.deps.json
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/bin/Debug/net7.0/GuessTheNumber.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/bin/Debug/net7.0/GuessTheNumber.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/bin/Debug/net7.0/GuessTheNumber.pdb
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.csproj.AssemblyReference.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/refint/GuessTheNumber.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.pdb
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/GuessTheNumber.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/GuessTheNumber/GuessTheNumber/obj/Debug/net7.0/ref/GuessTheNumber.dll
